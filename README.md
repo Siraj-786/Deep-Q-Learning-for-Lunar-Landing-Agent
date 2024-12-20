@@ -5,6 +5,7 @@ This project implements an autonomous lunar lander agent using Deep Q-Learning (
 ## Lunar Landing Agent - Video
 
 Watch the Lunar Landing Agent successfully land in the video below:
+[![Agent Landing Safely](https://raw.githubusercontent.com/Siraj-786/Deep-Q-Learning-for-Lunar-Landing-Agent/master/lunar_Agent.png)](https://github.com/Siraj-786/Deep-Q-Learning-for-Lunar-Landing-Agent/blob/master/download.mp4)
 
 [Click here to watch the video](https://drive.google.com/file/d/1fADEMyTL9RhFGpMKcxtelTofr9BPaRNQ/view?usp=sharing)
 
