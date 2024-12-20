@@ -1,0 +1,10 @@
+{
+  "name": "lunar-lander",
+  "version": "1.0.0",
+  "description": "Autonomous Lunar Lander using Deep Q-Learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "pip install -r requirements.txt && python main.py",
+    "test": "pip install -r requirements.txt && python -m pytest tests/"
+  }
+}
