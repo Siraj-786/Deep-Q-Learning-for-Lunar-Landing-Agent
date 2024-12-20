@@ -2,6 +2,13 @@
 
 This project implements an autonomous lunar lander agent using Deep Q-Learning (DQN) in OpenAI Gym's LunarLander-v2 environment. The agent learns to safely land a spacecraft on a landing pad.
 
+## Lunar Landing Agent - Video
+
+Watch the Lunar Landing Agent in action below:
+
+[![Agent Landing Safely](https://raw.githubusercontent.com/Siraj-786/Deep-Q-Learning-for-Lunar-Landing-Agent/master/lunar_Agent.png)](https://github.com/Siraj-786/Deep-Q-Learning-for-Lunar-Landing-Agent/blob/master/download.mp4)
+
+
 ## Features
 
 - Deep Q-Network (DQN) implementation with PyTorch
